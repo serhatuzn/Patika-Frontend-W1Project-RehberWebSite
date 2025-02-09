@@ -22,9 +22,9 @@
 ---
 
 ## 📸 Sayfa Önizlemeleri
-| Ana Sayfa | Servisler | İletişim |
-|-----------|----------|----------|
-| ![Ana Sayfa](./assets/images/AnaSayfa.jpg) | ![Servisler](./assets/images/servisler-preview.jpg) | ![İletişim](./assets/images/iletisim-preview.jpg) |
+| Ana Sayfa | Hakkında | Servisler | İletişim |
+|-----------|----------|----------|----------|
+| ![Ana Sayfa](./assets/images/AnaSayfa.png) | ![Hakkında](./assets/images/Hakkında.png) | ![Servisler](./assets/images/Hizmetler.png) | ![İletişim](./assets/images/İletişim.png) |
 
 ---
 
