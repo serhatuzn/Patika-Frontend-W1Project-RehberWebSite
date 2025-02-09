@@ -49,12 +49,5 @@
 
 ---
 
-## 📞 İletişim
-💌 **E-posta:** info@gezelimgorelim.com  
-📍 **Adres:** İstanbul, Türkiye  
-📞 **Telefon:** +90 555 123 4567  
-
----
-
 ## 📜 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. 📝
